@@ -1,0 +1,69 @@
+- order: 001
+  name: "Wired Up"
+  category: "Game Jam"
+  date: "June 2021"
+  client: "Client name"
+  web: <iframe frameborder="0" src="https://itch.io/embed/1085347?linkback=true&amp;border_width=5&amp;bg_color=1d4e5d&amp;fg_color=dddddd&amp;link_color=58bc82&amp;border_color=04151f" width="216" height="175"><a href="https://jaymarbu.itch.io/wired-up">Wired Up by JayMarBu, DM_RENNIE, JLeslie, aemslie00</a></iframe><div class="BigBr"></div>
+  photo: "thumbwiredUp.png"
+  bigPhoto: "large-thumbwiredUp.png"
+  img-alt: "Funny lil guy just standin' around :)"
+  id: "portfolioModal01"
+  description: "Wired up was developed for the 2021 GMTK game jam. The project was a collaboration between myself and friends as an excersie to improve our workflow as a team before tackling Dare academy. I handled level design for 2 of the 10 levels and wrote large portions of the gameplay code"
+  claim: "64th Place in GMTK 2021 Game Jam"
+
+- order: 002
+  name: "Escape The UwUverse"
+  category: "Dare Academy"
+  date: "May 2022"
+  client: "Client name"
+  web: <iframe frameborder="0" src="https://itch.io/embed/1158566?linkback=true&amp;border_width=5&amp;bg_color=1d4e5d&amp;fg_color=dddddd&amp;link_color=58bc82&amp;border_color=04151f" width="216" height="175"><a href="https://jaymarbu.itch.io/escape-the-uwuverse">Escape The UwUverse by JayMarBu, aemslie00, SandyF, DM_RENNIE, JLeslie, Rae, macbecca</a></iframe><div class="BigBr"></div>
+  photo: "UWU.png"
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/0OFxFwErKns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  bigPhoto: "large-UWU.png"
+  img-alt: "Photo description"
+  id: "portfolioModal02"
+  description: "Escape the UwUverse is the largest scale projects I have worked on. It was developed for Dare Academy 2021 game design competition hosted by Abertay University. The project took three months do conceptualise and develop. I handled core systems, the players' controls and the underlying framework that AI were built upon"
+  claim: "Dare 2021 Dell Award Winner"
+  call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
+
+- order: 003
+  name: "Angry Birds POP!"
+  category: "Mobile Game"
+  date: "August 2022"
+  client: "Client name"
+  web: <p><a href="https://www.rovio.com/games/angry-birds-pop/">Download</a></p>
+  photo: "ABPOP_icon.jpg"
+  bigPhoto: "ABPOP_icon.webp"
+  img-alt: "Photo description"
+  id: "portfolioModal03"
+  description: "Angry Birds POP! is a game i have worked on during my time at outplay entertainment. I primarily focused on supporting artists and designers with adding seasonal events to the game"
+  claim: "Game released on IOS and Android"
+  call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
+
+- order: 004
+  name: "Other WARP-ly"
+  category: "Game Jam"
+  date: "August 2022"
+  client: "Client name"
+  web: <iframe frameborder="0" src="https://itch.io/embed/807680?linkback=true&amp;border_width=5&amp;bg_color=1d4e5d&amp;fg_color=dddddd&amp;link_color=58bc82&amp;border_color=04151f" width="216" height="175"><a href="https://jaymarbu.itch.io/other-warp-ly">Wired Up by JayMarBu, DM_RENNIE, JLeslie</a></iframe><div class="BigBr"></div>
+  photo: "warply.png"
+  bigPhoto: "ABTOK2.png"
+  img-alt: "Photo description"
+  id: "portfolioModal04"
+  description: "Other warp-ly was developed for and won first place at the 2020 Abertay Games Development Society halloween game jam. The project was a collaboration between myself and two friends as our first game jam. I handled large portions of gameplay code allowing the others to focus their time on art, audio and level design"
+  claim: "GPGPU Visualisation"
+  call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
+
+- order: 005
+  name: "PiggyBork"
+  category: "Game Jam"
+  date: "August 2022"
+  client: "Client name"
+  web: <iframe frameborder="0" src="https://itch.io/embed/1376933?linkback=true&amp;border_width=5&amp;bg_color=1d4e5d&amp;fg_color=dddddd&amp;link_color=58bc82&amp;border_color=04151f" width="216" height="175"><a href="https://jaymarbu.itch.io/PiggyBork">PiggyBork by JayMarBu, Adam Emslie, JLeslie, DM_RENNIE, macbecca, SandyF</a></iframe><div class="BigBr"></div>
+  photo: "piggybork.png"
+  bigPhoto: "bork2.png"
+  img-alt: "Photo description"
+  id: "portfolioModal10"
+  description: "-PiggyBork was made as part of the Global Game Jam by a team of 4 programmers and a single artist. Piggy bork is a perspective-flipping, puzzle-platform game where you flip between a top-down, and side on view as you navigate your way through a series of puzzles"
+  claim: "FMOD prototype"
+  call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
