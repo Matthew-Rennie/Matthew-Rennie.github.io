@@ -51,7 +51,6 @@
   img-alt: "Photo description"
   id: "portfolioModal04"
   description: "Other warp-ly was developed for and won first place at the 2020 Abertay Games Development Society halloween game jam. The project was a collaboration between myself and two friends as our first game jam. I handled large portions of gameplay code allowing the others to focus their time on art, audio and level design"
-  claim: "GPGPU Visualisation"
   call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
 
 - order: 005
@@ -65,5 +64,4 @@
   img-alt: "Photo description"
   id: "portfolioModal10"
   description: "-PiggyBork was made as part of the Global Game Jam by a team of 4 programmers and a single artist. Piggy bork is a perspective-flipping, puzzle-platform game where you flip between a top-down, and side on view as you navigate your way through a series of puzzles"
-  claim: "FMOD prototype"
   call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
